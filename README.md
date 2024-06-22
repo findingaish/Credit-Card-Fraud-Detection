@@ -5,7 +5,7 @@ This repository contains a fraud detection project focusing on analyzing credit 
 ## Dataset
 
 The dataset used in this project includes simulated credit card transactions:
-- `fraudTrain.csv`: Training dataset containing legitimate and fraud transactions from 1st Jan 2019 to 31st Dec 2020.
+- `fraudTrain.csv`: Training dataset containing legitimate and fraud transactions.
 - `fraudTest.csv`: Test dataset for evaluating the trained models.
 
 ### Dataset Source
